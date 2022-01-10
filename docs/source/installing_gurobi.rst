@@ -42,9 +42,9 @@ Registering for an academic license
    Also check your Spam or Junk folders if you do not receive the email 
    within a few minutes.
 
-*********************
-Download the software
-*********************
+************************
+Downloading the software
+************************
 
 1. Log onto your account at www.gurobi.com.
 2. From the top of the webpage select “Downloads & Licenses” 
@@ -55,9 +55,9 @@ Download the software
 5. Run the installer and restart your computer when prompted to complete 
    the installation step.
 
-****************************************
-Obtain and activate the academic license
-****************************************
+*********************************************
+Obtaining and activating the academic license
+*********************************************
 
 Important note: Make sure you are connected to the *MIT network* in this step. 
 
@@ -83,9 +83,9 @@ Important note: Make sure you are connected to the *MIT network* in this step.
 
 7. Your Gurobi license should now be ready for use.
 
-****************
-Install gurobipy
-****************
+*******************
+Installing gurobipy
+*******************
 
 Install the Python API as follows:
 
